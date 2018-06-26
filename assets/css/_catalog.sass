@@ -1,0 +1,135 @@
+#catalog
+  .title
+    color: $second
+    &.underline:after
+      background: $second
+
+  =active
+    color: $second
+    background: none
+    border-color: $second
+    &:hover
+      background: $second
+      color: #fff
+
+  input
+    &#production:checked
+      & ~ .catalog__filter-buttons
+        label[for=production]
+          +active
+      & ~ .catalog__items
+        .catalog__group.group-production
+          left: 0
+          position: relative
+          z-index: 3
+        .catalog__item
+          transform: scale(0)
+        .production
+          transform: scale(1)
+
+    &#aluminum:checked
+      & ~ .catalog__filter-buttons
+        label[for=aluminum]
+          +active
+      & ~ .catalog__items
+        .catalog__group.group-aluminum
+          left: 0
+          position: relative
+          z-index: 3
+        .catalog__item
+          transform: scale(0)
+        .aluminium
+          transform: scale(1)
+
+    &#plastic:checked
+      & ~ .catalog__filter-buttons
+        label[for=plastic]
+          +active
+      & ~ .catalog__items
+        .catalog__group.group-plastic
+          left: 0
+          position: relative
+          z-index: 3
+        .catalog__item
+          transform: scale(0)
+        .plastic
+          transform: scale(1)
+
+  .catalog__filter-buttons
+    margin-top: 20px
+    display: flex
+    justify-content: space-between
+    +tablet
+      flex-wrap: wrap
+      justify-content: space-around
+    +mobile
+      flex-wrap: wrap
+      justify-content: space-around
+
+    .catalog__button
+      @extend .btn
+      border:
+        width: 5px
+        style: solid
+        color: transparent
+      width: 25%
+      font-weight: bold
+      transition: .5s
+      +tablet
+        width: 40%
+      +mobile
+        width: 100%
+
+  .catalog__items
+    position: relative
+    .catalog__group
+      position: absolute
+      top: 0
+      left: -9999px
+      display: flex
+      justify-content: space-around
+      flex-wrap: wrap
+      .catalog__item
+        +tablet
+          width: 45%
+        width: 415px
+        height: 336px
+        margin-top: 40px
+        background:
+          size: cover
+          position: center center
+        position: relative
+        box-shadow: 3px 5px 20px 0 #000
+        cursor: pointer
+        transition: .5s
+        &:before
+          content: ''
+          position: absolute
+          width: 100%
+          height: 100%
+          background: rgba(0, 0, 0, .4)
+          transition: background .3s
+        &:hover:before
+          background: rgba(0, 0, 0, .6)
+        .catalog__item-info
+          position: absolute
+          width: 100%
+          z-index: 2
+          color: #fff
+          bottom: 10px
+          text-transform: uppercase
+          padding: 0 20px
+          .catalog__item-name
+            font:
+              size: 30px
+              weight: 900
+            +tablet
+              font-size: 27px
+            +mobile
+              font-size: 24px
+          .catalog__item-price
+            width: 100%
+            text-align: right
+            font:
+              size: 26px
+              weight: 900

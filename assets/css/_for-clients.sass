@@ -1,0 +1,172 @@
+#advantages
+  margin-top: 40px
+  .advantage__svg
+    fill: $main
+    width: 90px
+    height: 90px
+  .advantages__list
+    display: flex
+    justify-content: space-around
+    margin-top: 40px
+    +tablet
+      flex-wrap: wrap
+    +mobile
+      flex-wrap: wrap
+    .advantages__item
+      +tablet
+        width: 45%
+        margin-bottom: 25px
+      +mobile
+        width: 100%
+        margin-bottom: 25px
+      .item__circle
+        border-radius: 50%
+        color: $main
+        background: #fff
+        text-align: center
+        box-shadow: 3px 5px 20px 0 #000
+        line-height: .7
+        text-transform: uppercase
+        width: 185px
+        height: 185px
+        display: flex
+        flex-direction: column
+        align-items: center
+        justify-content: center
+        margin: 0 auto
+      .item__title
+        color: #fff
+        text-align: center
+        margin-top: 20px
+        .item__title-main
+          text-transform: uppercase
+          font-weight: 900
+          font-size: 22px
+        .item__title-description
+          font-size: 20px
+          line-height: 1.2
+
+#invite
+  width: 100%
+  height: 400px
+  position: relative
+  background:
+    size: cover
+    position: center center
+  +tablet
+    height: auto
+  +mobile
+    height: auto
+  &:before
+    content: ''
+    position: absolute
+    width: 100%
+    height: 100%
+    background: rgba(0, 0, 0, .5)
+    top: 0
+    left: 0
+  & > *
+    position: relative
+    z-index: 2
+  .content
+    height: 100%
+    width: 1000px
+    margin: 0 auto
+    display: flex
+    align-items: center
+    justify-content: space-around
+    +tablet
+      flex-wrap: wrap
+      width: 100%
+      padding:
+        top: 20px
+    +mobile
+      flex-wrap: wrap
+      width: 100%
+      padding:
+        top: 20px
+    .invite__text
+      width: 550px
+      +tablet
+        width: 80%
+      +mobile
+        width: 90%
+      .title
+        text-align: left
+      .invite__list
+        color: #fff
+        list-style-position: inside
+        font-size: 19px
+.invite__form
+  width: 300px
+  +tablet
+    width: 80%
+  +mobile
+    width: 90%
+  .header__callback
+    display: block
+    input
+      display: block
+      background-color: transparent
+      color: #fff
+      border: 5px solid #fff
+      &::-webkit-input-placeholder
+        color: #fff
+      &::-moz-placeholder
+        color: #fff
+    .form__button
+      color: $main
+      background: #fff
+      width: 100%
+      &:hover
+        background-color: $main
+        color: #fff
+    *
+      margin-bottom: 10px
+
+#any_question
+  width: 100%
+  height: 300px
+  margin-top: 30px
+  background:
+    image: url('../img/window_bg.jpg')
+    repeat: no-repeat
+    size: cover
+    position: center center
+  position: relative
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+  color: #fff
+  text-align: center
+  font-size: 25px
+  line-height: 1.2
+  & > *
+    position: relative
+    z-index: 2
+  &:before
+    content: ''
+    position: absolute
+    width: 100%
+    height: 100%
+    top: 0
+    left: 0
+    background-color: rgba(0, 0, 0, .5)
+  .btn
+    margin-top: 40px
+    font-weight: bold
+    padding: 15px 50px
+    animation: moveBtn .7s linear infinite
+    +mobile
+      width: 90%
+    &:hover
+      animation-play-state: paused
+
+@keyframes moveBtn
+  0%, 50%, 100%
+    transform: translateY(0)
+  25%
+    transform: translateY(-5px)
+  75%
+    transform: translateY(5px)

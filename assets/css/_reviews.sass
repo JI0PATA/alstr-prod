@@ -1,0 +1,32 @@
+#reviews
+  .title
+    color: $second
+    &.underline:after
+      background: $second
+
+  .reviews__items
+    display: flex
+    justify-content: space-around
+    flex-wrap: wrap
+    .reviews__item
+      +tablet
+        width: 45%
+      +mobile
+        width: 100%
+      width: 28%
+      background: $main
+      margin-top: 40px
+      color: #fff
+      padding: 15px
+      box-shadow: 3px 5px 20px 0 #000
+    .item__author
+      text-transform: uppercase
+      font-size: 20px
+      font-weight: 900
+      margin-bottom: 5px
+    .item__category
+      text-transform: uppercase
+      font-size: 16px
+      margin-bottom: 15px
+    .item__description
+      font-size: 14px

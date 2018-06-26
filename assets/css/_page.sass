@@ -1,0 +1,75 @@
+#page
+  .title
+    text-align: left
+    color: $second
+    &.underline:after
+      background: $second
+      margin: 0
+
+.page__images
+  display: flex
+  justify-content: space-around
+  margin-top: 20px
+  flex-wrap: wrap
+  +tablet
+    flex-wrap: wrap
+    justify-content: space-around
+  +mobile
+    flex-wrap: wrap
+    justify-content: space-around
+  .page__image
+    +tablet
+      width: 40%
+      margin-bottom: 25px
+    +mobile
+      width: 90%
+      margin-bottom: 25px
+    width: 280px
+    cursor: pointer
+    height: 200px
+    background:
+      size: cover
+      position: center center
+    border-radius: 5px
+    box-shadow: 3px 5px 20px 0 #000
+    margin-bottom: 30px
+.btn
+  margin-top: 20px
+
+.page__list
+  list-style: none
+  .list__item
+    position: relative
+    padding-left: 40px
+    line-height: 1.2
+    margin-bottom: 15px
+    &:before
+      content: '>'
+      position: absolute
+      font-weight: 900
+      top: 50%
+      left: 0
+      transform: translateY(-50%)
+      color: #fff
+      background: $main
+      border-radius: 50%
+      text-align: center
+      font-size: 18px
+      line-height: 12px
+      padding: 7px
+
+.more1
+  display: none
+
+#more1:checked
+  & ~ .more1
+    display: block
+    animation: showMorePhotos .4s forwards
+
+
+
+@keyframes showMorePhotos
+  0%
+    transform: scale(0)
+  100%
+    transform: scale(1)

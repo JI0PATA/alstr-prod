@@ -1,0 +1,110 @@
+.windows_list
+  display: flex
+  justify-content: space-between
+  margin-top: 40px
+  +tablet
+    flex-wrap: wrap
+    justify-content: space-around
+  +mobile
+    flex-wrap: wrap
+    justify-content: space-around
+  .windows__list_item
+    width: 28%
+    box-shadow: 5px 6px 20px -4px #000
+    padding: 10px
+    +tablet
+      width: 45%
+      margin-bottom: 30px
+    +mobile
+      width: 100%
+      margin-bottom: 30px
+    .list__item_title
+      text-align: center
+      font-size: 20px
+      text-transform: uppercase
+      color: $main
+      font-weight: 900
+    .list__item_img
+      text-align: center
+      height: 180px
+      margin: 0 auto
+      margin-top: 10px
+      img
+        max-height: 100%
+        filter: drop-shadow(5px 5px 5px #000)
+    .list__item_price
+      margin-top: 20px
+      font-size: 17px
+      text-transform: uppercase
+      color: $main
+      text-align: right
+      font-weight: 900
+      cursor: pointer
+      transition: color .3s
+      display: inline-block
+      &:hover
+        color: darken($main, 10%)
+
+.windows__types-list
+  .windows__types-item
+    margin-bottom: 40px
+    .types-item__title
+      color: $second
+      text-transform: uppercase
+      font-weight: 900
+      font-size: 20px
+    .types-item__group-info
+      display: flex
+      justify-content: space-between
+      margin-top: 10px
+      +mobile
+        flex-direction: column
+      .types-item__group-characteristics
+        display: flex
+        &:nth-child(1)
+          width: 60%
+          +mobile
+            width: 100%
+            display: initial
+        &:nth-child(2)
+          width: 40%
+          +mobile
+            width: 100%
+            margin-bottom: 30px
+            order: -1
+        .types-item__img
+          height: 220px
+          +mobile
+            height: 150px
+            float: left
+            margin-right: 20px
+          img
+            max-height: 100%
+        .types-item__description
+          margin-left: 30px
+          &:nth-of-type(1)
+            margin-left: 0
+            margin-bottom: 30px
+          .types-item__characteristic
+            color: $second
+            font-size: 16px
+            line-height: 1.2
+            font-weight: bold
+          .types-item__price
+            color: $second
+            font-size: 25px
+            font-weight: 900
+            text-transform: uppercase
+            margin-top: 20px
+        .types-item__icon-characteristics
+          display: flex
+          .types-item__icon-item
+            height: 35px
+            margin-right: 20px
+            img
+              height: 100%
+
+#we_doing
+  .title
+    color: $second
+    margin-bottom: 30px

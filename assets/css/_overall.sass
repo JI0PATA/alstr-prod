@@ -1,0 +1,219 @@
+*
+  margin: 0
+  padding: 0
+  box-sizing: border-box
+  font-family: 'circe', sans-serif
+
+html
+  overflow-x: hidden
+
+/************* МИКСИНЫ *************/
+@font-face
+  font-family: 'circe'
+  src: url("../fonts/CRC55.otf")
+  font-weight: normal
+
+@font-face
+  font-family: 'circe'
+  src: url("../fonts/Circe-Bold.otf")
+  font-weight: bold
+
+@font-face
+  font-family: 'circe'
+  src: url("../fonts/Circe-ExtraBold.otf")
+  font-weight: 900
+
+=wp
+  width: 1200px
+  margin: 0 auto
+  +tablet
+    width: 100%
+    padding: 30px
+  +mobile
+    width: 100%
+    padding: 10px
+
+.orange
+  color: #b67942 !important
+
+
+/************* КНОПКИ *************/
+=btn
+  display: inline-block
+  text-align: center
+  background: $main
+  padding: 10px 20px
+  color: #ffffff
+  border: none
+  text-transform: uppercase
+  font-size: 18px
+  transition: background .5s
+  cursor: pointer
+  &:hover
+    background: darken($main, 10%)
+
+.btn
+  +btn
+/************* /КНОПКИ ************/
+
+.wp
+  +wp
+/************* /МИКСИНЫ ************/
+
+/************* ОБЩИЕ СТИЛИ *************/
+a
+  text-decoration: none
+  color: inherit
+
+.no_transition *
+  transition: none !important
+
+.hidden
+  display: none
+
+.block
+  display: block !important
+/************* /ОБЩИЕ СТИЛИ ************/
+
+/************* СТИЛИ ДЛЯ ЗАГОЛОВКОВ *************/
+.title
+  font-size: 24px
+  font-weight: 900
+  color: #fff
+  text-transform: uppercase
+  text-align: center
+  display: inline-block
+
+
+.underline
+  &:after
+    content: ''
+    display: block
+    width: 60%
+    height: 2px
+    background: #fff
+    margin: 0 auto
+
+.description
+  font-size: 22px
+  font-weight: bold
+  color: #fff
+  margin-top: 10px
+  p
+    margin-top: 20px
+
+.common_description
+  margin-top: 20px
+  color: $main
+  font-size: 20px
+  font-weight: bold
+  p
+    margin-top: 15px
+  &-title
+    font-weight: 900
+    margin-top: 30px
+    font-size: 20px
+    color: $second
+    text-transform: uppercase
+.white
+  color: #fff
+.center
+  text-align: center
+
+/************* /СТИЛИ ДЛЯ ЗАГОЛОВКОВ ************/
+
+/************* ВЫРАВНИВАНИЯ *************/
+.hor-left
+  text-align: left
+.hor-center
+  text-align: center
+.hor-right
+  text-align: right
+/************* /ВЫРАВНИВАНИЯ ************/
+
+/************* ПОЛЯ ВВОДА *************/
+input:active, input:focus
+  outline: none
+
+// Форма обратной связи
+.header__form
+  +wp
+  width: 660px
+  color: #fff
+  font:
+    size: 24px
+    weight: bold
+  margin-top: 50px
+  +tablet
+    padding-top: 0
+    margin-top: 0
+    text-align: center
+  +mobile
+    padding-top: 0
+    margin-top: 0
+    text-align: center
+  .header__title
+    .common_description-title
+      +mobile
+        margin-top: 0
+        font-size: 18px
+
+.header__callback
+  display: flex
+  justify-content: space-between
+  margin-top: 40px
+  +mobile
+    flex-wrap: wrap
+  .form__button
+    flex: 0 0 220px
+    +mobile
+      margin-top: 15px
+      flex: 0 0 100%
+    +btn
+  .form__input
+    border: none
+    font-size: 18px
+    text-transform: uppercase
+    color: $main
+    padding: 10px 20px
+    width: 100%
+    background:
+      repeat: no-repeat
+      size: 30px
+      position: 10px center
+    padding-left: 50px
+    +mobile
+      width: 100%
+    &::-webkit-input-placeholder
+      color: $main
+      font-weight: 900
+    &::-moz-placeholder
+      color: $main
+      font-weight: 900
+/************* /ПОЛЯ ВВОДА ************/
+
+/************* СТИЛИ ДЛЯ СЕКЦИЙ *************/
+section
+  padding: 20px 0
+
+.fluid-background
+  width: 100%
+  background: $main
+  .common_description-title
+    margin: 0
+    color: #fff
+  .common_description
+    color: #fff
+  .page__list
+    li
+      &:before
+        color: $main
+        background-color: #fff
+/************* /СТИЛИ ДЛЯ СЕКЦИЙ ************/
+
+.site__develop
+  text-align: center
+  font-size: 17px
+  color: #fff
+  display: block !important
+  width: 100%

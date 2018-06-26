@@ -1,0 +1,99 @@
+#footer
+  width: 100%
+  background: $main
+  padding: 20px
+  .wp
+    display: flex
+    justify-content: space-between
+    +tablet
+      flex-wrap: wrap
+    +mobile
+      flex-wrap: wrap
+  .footer__info
+    width: 50%
+    +tablet
+      width: 100%
+    +mobile
+      width: 100%
+    .footer__certificates
+      .footer__items
+        display: flex
+        justify-content: space-between
+        margin-top: 15px
+        .footer__item
+          width: 22%
+          img
+            width: 100%
+    .footer__videos
+      margin-top: 20px
+      .footer__video
+        width: 100%
+        height: 200px
+        background: $second
+        margin-top: 20px
+  .footer__map
+    width: 45%
+    padding-top: 50px
+    +tablet
+      width: 100%
+      height: 350px
+    +mobile
+      width: 100%
+      height: 350px
+
+  .footer__contacts
+    display: flex
+    justify-content: space-between
+    align-items: center
+    margin-top: 20px
+    color: #fff
+    +tablet
+      flex-wrap: wrap
+      justify-content: space-around
+      margin-top: 0
+    +mobile
+      flex-wrap: wrap
+      justify-content: space-around
+      margin-top: 0
+    .footer__social
+      +tablet
+        width: 100%
+        text-align: center
+        margin-bottom: 20px
+      +mobile
+        width: 100%
+        text-align: center
+        margin-bottom: 20px
+      .social__item
+        width: 30px
+        display: inline-block
+        vertical-align: middle
+        margin-right: 15px
+        &-vk
+          width: 40px
+        img
+          width: 100%
+    .footer__copyright
+      text-transform: uppercase
+      font-size: 20px
+      +tablet
+        order: 2
+        text-align: center
+        width: 100%
+        margin-bottom: 20px
+      +mobile
+        order: 2
+        text-align: center
+        width: 100%
+        margin-bottom: 20px
+    .footer__contact-info
+      text-align: right
+      font-weight: bold
+      +tablet
+        width: 100%
+        text-align: center
+        margin-bottom: 20px
+      +mobile
+        width: 100%
+        text-align: center
+        margin-bottom: 20px

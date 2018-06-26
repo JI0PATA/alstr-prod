@@ -1,0 +1,27 @@
+#callback-call
+  width: 800px
+  margin-bottom: 30px
+  +tablet
+    width: 100%
+  +mobile
+
+    width: 100%
+  .header__callback
+    box-shadow: 3px 5px 20px 0 #000
+    +mobile
+      box-shadow: none
+    .form__input
+      background: $second
+      color: #fff
+      padding-left: 20px
+      &::-webkit-input-placeholder
+        color: #fff
+        font-weight: 900
+      &::-moz-placeholder
+        color: #fff
+        font-weight: 900
+    .form__button
+      flex: 0 0 260px
+      +mobile
+        margin-top: 0
+        flex: 0 0 100%
