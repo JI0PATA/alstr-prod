@@ -15,6 +15,10 @@ head();
     <!--------------- /ШАПКА -------------->
 
     <section id="page" class="wp">
+        <?php
+        banner();
+        ?>
+
         <h2 class="title underline">фасадное остекление<br>в казани</h2>
 
         <div class="common_description">

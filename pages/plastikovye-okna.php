@@ -514,7 +514,6 @@ advantages();
 invite();
 ?>
 
-
     <div class="wp">
         <div class="common_description-title">преимуществами пвх рам принято считать</div>
         <ul class="common_description page__list">

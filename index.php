@@ -66,3 +66,11 @@ function invite() {
 function video_callbacks() {
     include "assets/templates/video-callbacks.php";
 }
+
+function banner() {
+    include "assets/templates/banner.php";
+}
+
+function banner_main_color() {
+    include "assets/templates/banner-main-color.php";
+}

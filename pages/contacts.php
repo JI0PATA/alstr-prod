@@ -16,6 +16,10 @@ head();
 
 <!--------------- КОНТАКТЫ --------------->
 <section id="contacts" class="contacts wp">
+    <?php
+    banner();
+    ?>
+
     <div class="hor-center">
         <h2 class="title underline">контакты</h2>
     </div>
