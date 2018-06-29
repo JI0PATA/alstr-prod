@@ -291,7 +291,7 @@ section {
     @media screen and (max-width: 767px) {
       #header.index {
         padding-top: 0;
-        height: 700px; } }
+        height: 750px; } }
     #header.index:before {
       content: '';
       display: block;
@@ -1557,6 +1557,9 @@ section {
   margin-top: 20px;
   font-weight: bold;
   margin-bottom: 20px; }
+  @media screen and (max-width: 767px) {
+    .banner {
+      flex-wrap: wrap; } }
   .banner .banner__section {
     width: 50%;
     font-size: 22px;
@@ -1565,6 +1568,9 @@ section {
     display: flex;
     align-items: center;
     justify-content: center; }
+    @media screen and (max-width: 767px) {
+      .banner .banner__section {
+        width: 100%; } }
   .banner .banner__button-action {
     transition: .4s;
     cursor: pointer; }
