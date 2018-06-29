@@ -1560,11 +1560,11 @@ section {
   .banner .banner__section {
     width: 50%;
     font-size: 22px;
-    text-align: center;
     text-transform: uppercase;
     padding: 20px;
     display: flex;
-    align-items: center; }
+    align-items: center;
+    justify-content: center; }
   .banner .banner__button-action {
     transition: .4s;
     cursor: pointer; }
