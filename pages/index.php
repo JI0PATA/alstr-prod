@@ -256,7 +256,7 @@ head();
     <section id="callback" class="wp">
         <div class="title">добавить отзыв</div>
 
-        <form action="/callback" method="POST" class="header__callback">
+        <form action="" method="POST" class="header__callback">
             <div class="input__group">
                 <input name="name" type="text" class="form__input" style="background-image: url('assets/img/icon_author.png')"
                        placeholder="имя" required>
