@@ -6,11 +6,13 @@
   margin-top: 20px
   font-weight: bold
   margin-bottom: 20px
+  background: $main
+  padding: 20px
   +mobile
     flex-wrap: wrap
   .banner__section
     width: 50%
-    font-size: 22px
+    font-size: 21px
     text-transform: uppercase
     padding: 20px
     display: flex
@@ -19,26 +21,13 @@
     +mobile
       width: 100%
   .banner__button-action
+    border: 4px solid #fff
     transition: .4s
     cursor: pointer
-
-.banner__main-color
-  border: 4px solid #fff
-  .banner__text
-    background: #ffffff
-    color: $main
-    font-weight: bold
-  .banner__button-action
-    &:hover
-      background: $main
-
-.banner__inverse-color
-  border: 4px solid $main
-  .banner__text
-    background: $main
     color: #fff
-  .banner__button-action
-    color: $main
     &:hover
-      background: $main
-      color: #fff
+      background: #fff
+      color: $main
+  .banner__text
+    background: #fff
+    color: $main
