@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="da8d1f25-4e6f-4b4b-9d79-90f5a5dba8cc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/order_callback.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order_callback.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/templates/end_html.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/templates/end_html.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,11 +86,23 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="order_callback.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="order_callback.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/order_callback.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="108">
                   <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="end_html.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assets/templates/end_html.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="844">
+                  <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+                  <folding>
+                    <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -166,7 +178,6 @@
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/assets/templates/video-callbacks.php" />
         <option value="$PROJECT_DIR$/assets/css/_page.sass" />
-        <option value="$PROJECT_DIR$/assets/templates/end_html.php" />
         <option value="$PROJECT_DIR$/assets/css/_reviews.sass" />
         <option value="$PROJECT_DIR$/pages/actionCallback.php" />
         <option value="$PROJECT_DIR$/pages/callback.php" />
@@ -209,6 +220,7 @@
         <option value="$PROJECT_DIR$/assets/css/_banner.sass" />
         <option value="$PROJECT_DIR$/pages/index.php" />
         <option value="$PROJECT_DIR$/pages/order_callback.php" />
+        <option value="$PROJECT_DIR$/assets/templates/end_html.php" />
       </list>
     </option>
   </component>
@@ -238,6 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,7 +284,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,12 +394,13 @@
       <workItem from="1530005715817" duration="10394000" />
       <workItem from="1530265012716" duration="8228000" />
       <workItem from="1530525221697" duration="455000" />
-      <workItem from="1530801213347" duration="617000" />
+      <workItem from="1530801213347" duration="1047000" />
+      <workItem from="1531294695115" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219504000" />
+    <option name="totallyTimeSpent" value="219975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -505,13 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/templates/end_html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -771,6 +777,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/templates/end_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
