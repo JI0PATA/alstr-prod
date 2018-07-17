@@ -20,4 +20,4 @@ mail(EMAIL, 'Обратная связь', "Категория: $category<br>И�
 <a href='$http_origin/actionCallback?action=publish&id=$id'>Опубликовать</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='$http_origin/actionCallback?action=block&id=$id'>Заблокировать</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='$http_origin/actionCallback?action=delete&id=$id'>Удалить</a>
 ", 'Content-type: text/html');
 
-exit(header('Location: '.$_SERVER['HTTP_REFERER']));
+exit(header('Location: /spasibo'));

@@ -97,6 +97,12 @@ head();
             </a>
             <a href="assets/img/svetoprozrachnye-kozyrki/9.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/9.jpg')" class="page__image more1" data-lightbox="page">
             </a>
+            <a href="assets/img/svetoprozrachnye-kozyrki/10.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/10.jpg')" class="page__image more1" data-lightbox="page">
+            </a>
+            <a href="assets/img/svetoprozrachnye-kozyrki/11.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/11.jpg')" class="page__image more1" data-lightbox="page">
+            </a>
+            <a href="assets/img/svetoprozrachnye-kozyrki/12.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/12.jpg')" class="page__image more1" data-lightbox="page">
+            </a>
         </div>
 
         <div class="hor-right">
@@ -141,6 +147,12 @@ head();
             <a href="assets/img/svetoprozrachnye-kozyrki/7.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/7.jpg')" class="page__image" data-lightbox="page">
             </a>
             <a href="assets/img/svetoprozrachnye-kozyrki/8.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/8.jpg')" class="page__image" data-lightbox="page">
+            </a>
+            <a href="assets/img/svetoprozrachnye-kozyrki/13.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/13.jpg')" class="page__image" data-lightbox="page">
+            </a>
+            <a href="assets/img/svetoprozrachnye-kozyrki/14.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/14.jpg')" class="page__image" data-lightbox="page">
+            </a>
+            <a href="assets/img/svetoprozrachnye-kozyrki/15.jpg" style="background-image: url('assets/img/svetoprozrachnye-kozyrki/mini/15.jpg')" class="page__image" data-lightbox="page">
             </a>
         </div>
 

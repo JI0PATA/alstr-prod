@@ -8,4 +8,4 @@ if (empty($name) || empty($call) || empty($page)) exit(header('Location: '.$_SER
 
 mail(EMAIL, 'Форма заказа', "Отправлено со страницы: <a href='{$page}'>{$page}</a><br>Имя: {$name}<br>Телефон: {$call}", 'Content-type: text/html');
 
-exit(header('Location: '.$_SERVER['HTTP_REFERER']));
+exit(header('Location: /spasibo'));

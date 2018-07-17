@@ -3,6 +3,7 @@
     <label for="callback__form_checkbox" id="callback__close-button"></label>
 
     <form action="/order_callback" class="header__callback" id="callback__form_input" method="POST">
+        <h3>Оставьте свои данные и наш специалист свяжется с Вами!</h3>
         <input type="text" class="form__input" placeholder="Имя"
                style="background-image: url('assets/img/icon_author.png')" id="callback__form_name" name="name">
         <input type="number" class="form__input" placeholder="Номер телефона"

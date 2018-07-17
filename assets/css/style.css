@@ -14,6 +14,13 @@
 ::-webkit-scrollbar {
   width: 5px; }
 
+::-webkit-outer-spin-button, ::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0; }
+
+input[type=number] {
+  -moz-appearance: textfield; }
+
 /************* /СТИЛИЗАЦИЯ СКРОЛЛБАРА ************/
 * {
   margin: 0;
@@ -42,6 +49,9 @@ html {
 
 .orange {
   color: #b67942 !important; }
+
+.main {
+  color: #1e67a7; }
 
 /************* КНОПКИ *************/
 .btn, #catalog .catalog__filter-buttons .catalog__button {
@@ -95,6 +105,9 @@ a {
   text-transform: uppercase;
   text-align: center;
   display: inline-block; }
+
+.text-center {
+  text-align: center; }
 
 .underline:after {
   content: '';
@@ -174,10 +187,12 @@ input:active, input:focus {
       padding-top: 0;
       margin-top: 0;
       text-align: center; } }
-  @media screen and (max-width: 767px) {
-    .header__form .header__title .common_description-title {
-      margin-top: 0;
-      font-size: 18px; } }
+  .header__form .header__title {
+    text-align: center; }
+    @media screen and (max-width: 767px) {
+      .header__form .header__title .common_description-title {
+        margin-top: 0;
+        font-size: 18px; } }
 
 .header__callback {
   display: flex;
@@ -1584,3 +1599,7 @@ section {
   .banner .banner__text {
     background: #fff;
     color: #1e67a7; }
+
+.spasibo {
+  font-size: 20px;
+  padding: 40px 0; }
