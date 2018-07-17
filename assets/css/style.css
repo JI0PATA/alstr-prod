@@ -1592,13 +1592,23 @@ section {
     border: 4px solid #fff;
     transition: .4s;
     cursor: pointer;
-    color: #fff; }
+    color: red;
+    animation: blink 1s infinite; }
     .banner .banner__button-action:hover {
       background: #fff;
       color: #1e67a7; }
   .banner .banner__text {
     background: #fff;
-    color: #1e67a7; }
+    color: red;
+    animation: blink 1s infinite; }
+
+@keyframes blink {
+  0% {
+    color: red; }
+  50% {
+    color: transparent; }
+  100% {
+    color: red; } }
 
 .spasibo {
   font-size: 20px;
