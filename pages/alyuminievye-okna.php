@@ -14,7 +14,7 @@ head();
 
         <div class="header__form">
             <div class="header__title">
-                <div class="common_description-title white center">качественные и недорогие алюминиевые окна</div>
+                <div class="common_description-title white center">качественные и недорогие алюминиевые окна<br>от производителя в Казани</div>
                 <div class="common_description white">
                 </div>
             </div>
@@ -37,7 +37,7 @@ head();
             <div class="hor-right">
                 <label for="callback__form_checkbox" class="list__item_price product-more"
                        data-product='{"img":"assets/img/windows/window1.png","title":"двухсекционное окно","description":""}'
-                >узнать цену</label>
+                >узнать цену по Вашим размерам</label>
             </div>
         </div>
 
@@ -51,7 +51,7 @@ head();
             <div class="hor-right">
                 <label for="callback__form_checkbox" class="list__item_price product-more"
                        data-product='{"img":"assets/img/windows/window2.png","title":"трехсекционное окно","description":""}'
-                >узнать цену</label>
+                >узнать цену по Вашим размерам</label>
             </div>
         </div>
 
@@ -65,7 +65,7 @@ head();
             <div class="hor-right">
                 <label for="callback__form_checkbox" class="list__item_price product-more"
                        data-product='{"img":"assets/img/windows/window3.png","title":"балконный блок","description":""}'
-                >узнать цену</label>
+                >узнать цену по Вашим размерам</label>
             </div>
         </div>
     </div><br><br>
@@ -94,7 +94,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-okna/mini/garm.jpg","title":"Алюминиевые окна гармошка","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -108,7 +108,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-okna/mini/rotate.jpg","title":"Алюминиевые окна поворотно-откидные","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -122,7 +122,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-okna/mini/sliding.jpg","title":"Алюминиевые раздвижные окна","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -136,7 +136,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-okna/mini/portal.jpg","title":"Портальные окна","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>

@@ -15,7 +15,7 @@ head()
         <div class="header__form">
             <div class="header__title">
                 <div class="common_description-title white center">
-                    качественное и недорогое остекление балконов и лоджий
+                    качественное и недорогое остекление балконов и лоджий<br>от производителя в Казани
                 </div>
                 <div class="common_description white">
                 </div>
@@ -66,7 +66,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/osteklenie-balkonov-lodzhij/nobordered.jpg","title":"Безрамное остекление балкона","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -80,7 +80,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/osteklenie-balkonov-lodzhij/nobordered-lodj.jpg","title":"Безрамное остекление лоджий","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -94,7 +94,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/osteklenie-balkonov-lodzhij/pvh-profil.jpg","title":"Остекление балкона ПВХ профилем","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -108,7 +108,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/osteklenie-balkonov-lodzhij/sliding.jpg","title":"Раздвижные окна для балкона","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -122,7 +122,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/osteklenie-balkonov-lodzhij/warming.jpg","title":"Утепление лоджий с сохранением дизайна","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>

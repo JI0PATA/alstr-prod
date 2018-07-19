@@ -14,7 +14,7 @@ head()
 
         <div class="header__form">
             <div class="header__title">
-                <div class="common_description-title white center">качественные и недорогие пластиковые двери</div>
+                <div class="common_description-title white center">качественные и недорогие пластиковые двери<br>от производителя в Казани</div>
                 <div class="common_description white">
                 </div>
             </div>
@@ -39,7 +39,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/plastikovye-dveri/1.jpg","title":"Балконная дверь","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/plastikovye-dveri/2.jpg","title":"Пластиковая дверь","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/plastikovye-dveri/3.jpg","title":"Пластиковая портальная дверь","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>

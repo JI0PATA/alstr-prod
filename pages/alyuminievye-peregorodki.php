@@ -14,7 +14,7 @@ head()
 
         <div class="header__form">
             <div class="header__title">
-                <div class="common_description-title white center">качественные и недорогие алюминиевые перегородки
+                <div class="common_description-title white center">качественные и недорогие алюминиевые перегородки<br>от производителя в Казани
                 </div>
                 <div class="common_description white">
                 </div>
@@ -72,7 +72,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-peregorodki/ABCD.jpg","title":"Алюминиевая перегородка ABCD","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-peregorodki/ABCD_and_jal.jpg","title":"Алюминиевая перегородка ABCD и Жалюзи","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -100,7 +100,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-peregorodki/whole_glass.jpg","title":"Цельностеклянная перегородка","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -114,7 +114,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-peregorodki/TP45.jpg","title":"Алюминиевая перегородка ТП-45","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>

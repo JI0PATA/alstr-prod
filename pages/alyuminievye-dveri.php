@@ -15,7 +15,7 @@ head();
         <div class="header__form">
             <div class="header__title">
                 <div class="common_description-title white center">
-                    качественные и недорогие алюминиевые двери
+                    качественные и недорогие алюминиевые двери<br>от производителя в Казани
                 </div>
                 <div class="common_description white">
                 </div>
@@ -58,7 +58,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-dveri/mini/cold.jpg","title":"Холодные алюминиевые двери","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -72,7 +72,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-dveri/mini/warm.jpg","title":"Тёплые алюминиевые двери","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-dveri/mini/garm.jpg","title":"Алюминиевые двери гармошка","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -100,7 +100,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-dveri/mini/mat.jpg","title":"Алюминиевые маятниковые двери","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -114,7 +114,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-dveri/mini/portal.jpg","title":"Алюминиевые портальные двери","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -128,7 +128,7 @@ head();
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/alyuminievye-dveri/mini/glass.jpg","title":"Цельностеклянные алюминиевые двери","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>

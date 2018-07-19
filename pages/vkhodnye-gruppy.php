@@ -14,7 +14,7 @@ head()
 
         <div class="header__form">
             <div class="header__title">
-                <div class="common_description-title white center">качественные и недорогие входные группы</div>
+                <div class="common_description-title white center">качественные и недорогие входные группы<br>от производителя в Казани</div>
                 <div class="common_description white">
 
                 </div>
@@ -56,7 +56,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/vkhodnye-gruppy/warm.jpg","title":"Алюминиевая теплая входная группа","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -70,7 +70,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/vkhodnye-gruppy/cold.jpg","title":"Алюминиевая холодная входная группа","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -84,7 +84,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/vkhodnye-gruppy/glass-roof.jpg","title":"Входная группа со стеклянной крышей","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -98,7 +98,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/vkhodnye-gruppy/without-roof.jpg","title":"Входная группа без крыши","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -112,7 +112,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/vkhodnye-gruppy/plastic.jpg","title":"Пластиковая входная группа","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -126,7 +126,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/vkhodnye-gruppy/glass.jpg","title":"Цельностеклянная входная группа","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>

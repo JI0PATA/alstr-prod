@@ -14,7 +14,7 @@ head()
 
         <div class="header__form">
             <div class="header__title">
-                <div class="common_description-title white center">качественные и недорогие пластиковые перегородки
+                <div class="common_description-title white center">качественные и недорогие пластиковые перегородки<br>от производителя в Казани
                 </div>
                 <div class="common_description white">
                 </div>
@@ -69,7 +69,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/plastikovye-peregorodki/1.jpg","title":"Глухая перегородка","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -83,7 +83,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/plastikovye-peregorodki/2.jpg","title":"Пластиковая перегородка с матовыми стеклами","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>
@@ -97,7 +97,7 @@ head()
                 <div class="hor-right">
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"assets/img/plastikovye-peregorodki/3.jpg","title":"Пластиковая перегородка","description":""}'
-                    >узнать цену</label>
+                    >узнать цену по Вашим размерам</label>
                 </div>
             </div>
         </div>

@@ -14,8 +14,7 @@
                 <img src="assets/img/clock.png" alt="">
             </div>
             <div class="hat__item-title">
-                Пн-Пт с 9.00 до 18.00<br>
-                Сб-Вс выходной
+                Пн-Вс с 9.00 до 18.00<br>
             </div>
         </div>
         <div class="hat__item">

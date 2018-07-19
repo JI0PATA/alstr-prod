@@ -14,7 +14,7 @@ head();
 
         <div class="header__form">
             <div class="header__title">
-                <div class="common_description-title white center">качественные и недорогие пластиковые окна</div>
+                <div class="common_description-title white center">качественные и недорогие пластиковые окна<br>от производителя в Казани</div>
                 <div class="common_description white">
                 </div>
             </div>
@@ -112,7 +112,7 @@ head();
                             </div>
                         </div>
                         <div class="types-item__price">от 3999 руб.</div>
-                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/gutwerk58.png","title":"gutwerk58 (гутверк)","description":""}'>оформить заявку</label>
+                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/gutwerk58.png","title":"gutwerk58 (гутверк)","description":""}'>узнать цену по Вашим размерам</label>
                     </div>
                 </div>
                 <div class="types-item__group-characteristics">
@@ -166,7 +166,7 @@ head();
                             </div>
                         </div>
                         <div class="types-item__price">от 4699 руб.</div>
-                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/gutwerk70.png","title":"gutwerk70 (гутверк)","description":""}'>оформить заявку</label>
+                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/gutwerk70.png","title":"gutwerk70 (гутверк)","description":""}'>узнать цену по Вашим размерам</label>
                     </div>
                 </div>
                 <div class="types-item__group-characteristics">
@@ -220,7 +220,7 @@ head();
                             </div>
                         </div>
                         <div class="types-item__price">от 4399 руб.</div>
-                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/kbe_engine.png","title":"kbe_engine (энджин)","description":""}'>оформить заявку</label>
+                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/kbe_engine.png","title":"kbe_engine (энджин)","description":""}'>узнать цену по Вашим размерам</label>
                     </div>
                 </div>
                 <div class="types-item__group-characteristics block">
@@ -302,7 +302,7 @@ head();
                             </div>
                         </div>
                         <div class="types-item__price">от 5999 руб.</div>
-                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/kbe_expert.png","title":"kbe_expert (экперт)","description":""}'>оформить заявку</label>
+                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/kbe_expert.png","title":"kbe_expert (экперт)","description":""}'>узнать цену по Вашим размерам</label>
                     </div>
                 </div>
                 <div class="types-item__group-characteristics block">
@@ -383,7 +383,7 @@ head();
                             </div>
                         </div>
                         <div class="types-item__price">от 6499 руб.</div>
-                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/trocal_balance.png","title":"trocal balance","description":""}'>оформить заявку</label>
+                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/trocal_balance.png","title":"trocal balance","description":""}'>узнать цену по Вашим размерам</label>
                     </div>
                 </div>
                 <div class="types-item__group-characteristics block">
@@ -450,7 +450,7 @@ head();
                             </div>
                         </div>
                         <div class="types-item__price">от 9099 руб.</div>
-                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/kbe_88.png","title":"kbe 88","description":""}'>оформить заявку</label>
+                        <label class="btn product-more" for="callback__form_checkbox" data-product='{"img":"assets/img/windows/kbe_88.png","title":"kbe 88","description":""}'>узнать цену по Вашим размерам</label>
                     </div>
                 </div>
                 <div class="types-item__group-characteristics block">
