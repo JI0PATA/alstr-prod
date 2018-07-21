@@ -14,7 +14,9 @@ head();
 
         <div class="header__form">
             <div class="header__title">
-                Производство и установка алюминиевых и пластиковых светопрозрачных конструкции
+                <div class="common_description-title white center">
+                    Производство и установка алюминиевых и пластиковых светопрозрачных конструкции<br>в Казани
+                </div>
             </div>
             <?php
             head_callback();
