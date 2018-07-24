@@ -1615,3 +1615,57 @@ section {
 .spasibo {
   font-size: 20px;
   padding: 40px 0; }
+
+.blueprint__doors .title {
+  color: #b67942; }
+  .blueprint__doors .title.underline:after {
+    background: #b67942; }
+
+.blueprint__doors .blueprint__doors_list {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 30px; }
+  @media screen and (min-width: 768px) and (max-width: 1200px) {
+    .blueprint__doors .blueprint__doors_list {
+      width: 100%;
+      padding: 30px; } }
+  @media screen and (max-width: 767px) {
+    .blueprint__doors .blueprint__doors_list {
+      width: 100%;
+      padding: 10px; } }
+  .blueprint__doors .blueprint__doors_list .blueprint__doors_item {
+    width: 28%;
+    text-align: center;
+    border: 1px solid #1e67a7;
+    box-shadow: 1px 1px 15px #1e67a7;
+    margin-bottom: 30px; }
+    .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-img {
+      height: 300px;
+      padding: 20px; }
+    .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info {
+      margin-top: 15px;
+      color: #fff;
+      background: #1e67a7;
+      padding: 20px 10px; }
+      .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info .blueprint__doors_item-info-title {
+        margin-bottom: 10px;
+        font-size: 18px; }
+      .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info .blueprint__doors_item-old_price {
+        text-decoration: line-through;
+        text-decoration-color: red;
+        font-size: 15px;
+        margin-top: 15px; }
+      .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info .blueprint__doors_item-new_price {
+        font-size: 20px; }
+      .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info .btn, .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info #catalog .catalog__filter-buttons .catalog__button, #catalog .catalog__filter-buttons .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info .catalog__button {
+        background: #fff;
+        color: #1e67a7;
+        border: 2px solid transparent;
+        transition: .4s; }
+        .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info .btn:hover, .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info #catalog .catalog__filter-buttons .catalog__button:hover, #catalog .catalog__filter-buttons .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-info .catalog__button:hover {
+          background: #1e67a7;
+          color: #fff;
+          border: 2px solid #fff; }

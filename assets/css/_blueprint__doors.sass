@@ -1,0 +1,45 @@
+.blueprint__doors
+  .title
+    color: $second
+    &.underline:after
+      background: $second
+
+  .blueprint__doors_list
+    +wp
+    display: flex
+    justify-content: space-between
+    flex-wrap: wrap
+    margin-top: 30px
+    .blueprint__doors_item
+      width: 28%
+      text-align: center
+      border: 1px solid $main
+      box-shadow: 1px 1px 15px $main
+      margin-bottom: 30px
+      .blueprint__doors_item-img
+        height: 300px
+        padding: 20px
+      .blueprint__doors_item-info
+        margin-top: 15px
+        color: #fff
+        background: $main
+        padding: 20px 10px
+        .blueprint__doors_item-info-title
+          margin-bottom: 10px
+          font-size: 18px
+        .blueprint__doors_item-old_price
+          text-decoration: line-through
+          text-decoration-color: red
+          font-size: 15px
+          margin-top: 15px
+        .blueprint__doors_item-new_price
+          font-size: 20px
+        .btn
+          background: #fff
+          color: $main
+          border: 2px solid transparent
+          transition: .4s
+          &:hover
+            background: $main
+            color: #fff
+            border: 2px solid #fff
