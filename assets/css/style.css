@@ -1642,6 +1642,12 @@ section {
     border: 1px solid #1e67a7;
     box-shadow: 1px 1px 15px #1e67a7;
     margin-bottom: 30px; }
+    @media screen and (min-width: 768px) and (max-width: 1200px) {
+      .blueprint__doors .blueprint__doors_list .blueprint__doors_item {
+        width: 45%; } }
+    @media screen and (max-width: 767px) {
+      .blueprint__doors .blueprint__doors_list .blueprint__doors_item {
+        width: 100%; } }
     .blueprint__doors .blueprint__doors_list .blueprint__doors_item .blueprint__doors_item-img {
       height: 300px;
       padding: 20px; }
