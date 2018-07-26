@@ -161,11 +161,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 17700 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 12300 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 17700 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 12300 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/1.svg","title":"Татпроф ТП-45 (2100*900)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -179,11 +179,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 19400 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 13400 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 19400 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 13400 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/2.svg","title":"Татпроф ТП-45 (2100*900)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -197,11 +197,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 20900 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 14600 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 20900 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 14600 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/3.svg","title":"Татпроф ТП-45 (2100*900)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -215,11 +215,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 29000 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 20200 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 29000 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 20200 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/4.svg","title":"Татпроф ТП-45 (2100*1500)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -233,11 +233,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 31800 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 22200 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 31800 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 22200 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/5.svg","title":"Татпроф ТП-45 (2100*1500)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -251,11 +251,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 34500 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 24100 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 34500 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 24100 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/6.svg","title":"Татпроф ТП-45 (2100*1500)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -269,11 +269,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 30400 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 21300 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 30400 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 21300 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/7.svg","title":"Татпроф ТП-45 (2100*1800)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -287,11 +287,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 34000 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 23800 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 34000 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 23800 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/8.svg","title":"Татпроф ТП-45 (2100*1800)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -305,11 +305,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 37400 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 26200 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 37400 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 26200 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/cold/9.svg","title":"Татпроф ТП-45 (2100*900)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
         </div>
@@ -335,11 +335,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 27300 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 19100 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 27300 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 19100 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/1.svg","title":"Татпроф ТПТ-65 (2100*900)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -353,11 +353,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 29600 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 20700 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 29600 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 20700 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/2.svg","title":"Татпроф ТПТ-65 (2100*900)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -371,11 +371,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 30600 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 21400 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 30600 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 21400 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/3.svg","title":"Татпроф ТПТ-65 (2100*900)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -389,11 +389,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 44800 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 31400 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 44800 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 31400 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/4.svg","title":"Татпроф ТПТ-65 (2100*1500)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -407,11 +407,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 49000 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 34300 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 49000 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 34300 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/5.svg","title":"Татпроф ТПТ-65 (2100*1500)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -425,11 +425,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 50800 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 35500 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 50800 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 35500 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/6.svg","title":"Татпроф ТПТ-65 (2100*1500)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -443,11 +443,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 47500 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 33200 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 47500 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 33200 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/7.svg","title":"Татпроф ТПТ-65 (2100*1800)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -461,11 +461,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 52400 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 36700 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 52400 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 36700 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/8.svg","title":"Татпроф ТПТ-65 (2100*1800)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
             <div class="blueprint__doors_item">
@@ -479,11 +479,11 @@ head();
                     <div>Ручка скоба: 1 комплект</div>
                     <div>Петли: 3 шт</div>
                     <div>Замок: 1 комплект</div>
-                    <div class="blueprint__doors_item-old_price">Старая цена: 54600 руб.</div>
-                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 38200 руб.</div>
+                    <!--<div class="blueprint__doors_item-old_price">Старая цена: 54600 руб.</div>
+                    <div class="blueprint__doors_item-new_price">Цена со скидкой: 38200 руб.</div>-->
                     <label for="callback__form_checkbox" class="btn list__item_price product-more"
                            data-product='{"img":"../assets/img/alyuminievye-dveri/warm/9.svg","title":"Татпроф ТПТ-65 (2100*1800)","description":""}'
-                    >заказать</label>
+                    >заказать замер<br>бесплатно</label>
                 </div>
             </div>
         </div>
