@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8d1f25-4e6f-4b4b-9d79-90f5a5dba8cc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_hat.sass" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/_hat.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/alyuminievye-dveri.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alyuminievye-dveri.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/alyuminievye-okna.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alyuminievye-okna.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/plastikovye-dveri.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/plastikovye-dveri.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/plastikovye-okna.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/plastikovye-okna.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/vkhodnye-gruppy.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/vkhodnye-gruppy.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,28 +26,29 @@
     <splitter split-orientation="horizontal" split-proportion="0.5286396">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="alyuminievye-dveri.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="alyuminievye-dveri.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/alyuminievye-dveri.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="844">
-                  <caret line="167" column="48" selection-start-line="167" selection-start-column="48" selection-end-line="167" selection-end-column="48" />
-                  <caret line="185" column="48" selection-start-line="185" selection-start-column="48" selection-end-line="185" selection-end-column="48" />
-                  <caret line="203" column="48" selection-start-line="203" selection-start-column="48" selection-end-line="203" selection-end-column="48" />
-                  <caret line="221" column="48" selection-start-line="221" selection-start-column="48" selection-end-line="221" selection-end-column="48" />
-                  <caret line="239" column="48" selection-start-line="239" selection-start-column="48" selection-end-line="239" selection-end-column="48" />
-                  <caret line="257" column="48" selection-start-line="257" selection-start-column="48" selection-end-line="257" selection-end-column="48" />
-                  <caret line="275" column="48" selection-start-line="275" selection-start-column="48" selection-end-line="275" selection-end-column="48" />
-                  <caret line="293" column="48" selection-start-line="293" selection-start-column="48" selection-end-line="293" selection-end-column="48" />
-                  <caret line="311" column="48" selection-start-line="311" selection-start-column="48" selection-end-line="311" selection-end-column="48" />
-                  <caret line="341" column="48" selection-start-line="341" selection-start-column="48" selection-end-line="341" selection-end-column="48" />
-                  <caret line="359" column="48" selection-start-line="359" selection-start-column="48" selection-end-line="359" selection-end-column="48" />
-                  <caret line="377" column="48" selection-start-line="377" selection-start-column="48" selection-end-line="377" selection-end-column="48" />
-                  <caret line="395" column="48" selection-start-line="395" selection-start-column="48" selection-end-line="395" selection-end-column="48" />
-                  <caret line="413" column="48" selection-start-line="413" selection-start-column="48" selection-end-line="413" selection-end-column="48" />
-                  <caret line="431" column="48" selection-start-line="431" selection-start-column="48" selection-end-line="431" selection-end-column="48" />
-                  <caret line="449" column="48" selection-start-line="449" selection-start-column="48" selection-end-line="449" selection-end-column="48" />
-                  <caret line="467" column="48" selection-start-line="467" selection-start-column="48" selection-end-line="467" selection-end-column="48" />
-                  <caret line="485" column="48" selection-start-line="485" selection-start-column="48" selection-end-line="485" selection-end-column="48" />
+                <state relative-caret-position="360">
+                  <caret line="20" column="132" selection-start-line="20" selection-start-column="132" selection-end-line="20" selection-end-column="132" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="plastikovye-dveri.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/plastikovye-dveri.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="324">
+                  <caret line="18" column="120" selection-start-line="18" selection-start-column="120" selection-end-line="18" selection-end-column="120" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="osteklenie-balkonov-lodzhij.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="20" column="137" selection-start-line="20" selection-start-column="137" selection-end-line="20" selection-end-column="137" />
                 </state>
               </provider>
             </entry>
@@ -53,7 +61,7 @@
             <entry file="file://$PROJECT_DIR$/assets/css/style.sass">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1224">
-                  <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+                  <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -62,7 +70,7 @@
             <entry file="file://$PROJECT_DIR$/assets/css/_blueprint__doors.sass">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="126">
-                  <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+                  <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -104,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/templates/video-callbacks.php" />
         <option value="$PROJECT_DIR$/assets/css/_page.sass" />
         <option value="$PROJECT_DIR$/assets/css/_reviews.sass" />
         <option value="$PROJECT_DIR$/pages/actionCallback.php" />
@@ -127,7 +134,6 @@
         <option value="$PROJECT_DIR$/pages/steklopakety.php" />
         <option value="$PROJECT_DIR$/pages/zenitnye-fonari.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/assets/css/_hat.sass" />
         <option value="$PROJECT_DIR$/assets/templates/head.php" />
         <option value="$PROJECT_DIR$/assets/templates/banner.php" />
         <option value="$PROJECT_DIR$/assets/templates/end_html.php" />
@@ -142,19 +148,21 @@
         <option value="$PROJECT_DIR$/assets/templates/hat.php" />
         <option value="$PROJECT_DIR$/assets/templates/banner-main-color.php" />
         <option value="$PROJECT_DIR$/assets/css/_overall.sass" />
-        <option value="$PROJECT_DIR$/pages/plastikovye-okna.php" />
-        <option value="$PROJECT_DIR$/pages/vkhodnye-gruppy.php" />
-        <option value="$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php" />
-        <option value="$PROJECT_DIR$/pages/alyuminievye-okna.php" />
         <option value="$PROJECT_DIR$/pages/alyuminievye-peregorodki.php" />
-        <option value="$PROJECT_DIR$/pages/plastikovye-dveri.php" />
         <option value="$PROJECT_DIR$/pages/plastikovye-peregorodki.php" />
         <option value="$PROJECT_DIR$/pages/index.php" />
         <option value="$PROJECT_DIR$/assets/img/alyuminievye-dveri/warm/1.svg" />
         <option value="$PROJECT_DIR$/assets/css/style.sass" />
         <option value="$PROJECT_DIR$/assets/img/alyuminievye-dveri/cold/1.svg" />
         <option value="$PROJECT_DIR$/assets/css/_blueprint__doors.sass" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pages/alyuminievye-okna.php" />
+        <option value="$PROJECT_DIR$/assets/css/_hat.sass" />
         <option value="$PROJECT_DIR$/pages/alyuminievye-dveri.php" />
+        <option value="$PROJECT_DIR$/pages/vkhodnye-gruppy.php" />
+        <option value="$PROJECT_DIR$/pages/plastikovye-okna.php" />
+        <option value="$PROJECT_DIR$/pages/plastikovye-dveri.php" />
+        <option value="$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php" />
       </list>
     </option>
   </component>
@@ -184,55 +192,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="alstr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alstr" type="462c0819:PsiDirectoryNode" />
+              <item name="alstr-prod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alstr-prod" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="alstr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alstr" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="alstr-prod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alstr-prod" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="alstr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alstr" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="alstr-prod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alstr-prod" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="alstr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alstr" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="alyuminievye-dveri" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alstr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alstr" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="alyuminievye-dveri" type="462c0819:PsiDirectoryNode" />
-              <item name="cold" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alstr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alstr" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alstr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alstr" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="alstr-prod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alstr-prod" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,14 +338,15 @@
       <workItem from="1532165803045" duration="663000" />
       <workItem from="1532444224885" duration="7885000" />
       <workItem from="1532588079115" duration="144000" />
+      <workItem from="1533226921960" duration="507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240351000" />
+    <option name="totallyTimeSpent" value="240858000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -391,13 +379,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/_blueprint__doors.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -445,13 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -637,45 +611,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/_hat.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/vkhodnye-gruppy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="135" selection-start-line="16" selection-start-column="135" selection-end-line="16" selection-end-column="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/alyuminievye-okna.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="137" selection-start-line="16" selection-start-column="137" selection-end-line="16" selection-end-column="137" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/alyuminievye-peregorodki.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="144" selection-start-line="16" selection-start-column="144" selection-end-line="16" selection-end-column="144" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/plastikovye-dveri.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="138" selection-start-line="16" selection-start-column="138" selection-end-line="16" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/plastikovye-okna.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="137" selection-start-line="16" selection-start-column="137" selection-end-line="16" selection-end-column="137" />
         </state>
       </provider>
     </entry>
@@ -690,13 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3096">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -724,38 +656,77 @@
     <entry file="file://$PROJECT_DIR$/assets/css/style.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
-          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/_blueprint__doors.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/_hat.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/alyuminievye-okna.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/vkhodnye-gruppy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="129" selection-start-line="18" selection-start-column="129" selection-end-line="18" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/plastikovye-okna.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="119" selection-start-line="18" selection-start-column="119" selection-end-line="18" selection-end-column="119" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/alyuminievye-dveri.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="167" column="48" selection-start-line="167" selection-start-column="48" selection-end-line="167" selection-end-column="48" />
-          <caret line="185" column="48" selection-start-line="185" selection-start-column="48" selection-end-line="185" selection-end-column="48" />
-          <caret line="203" column="48" selection-start-line="203" selection-start-column="48" selection-end-line="203" selection-end-column="48" />
-          <caret line="221" column="48" selection-start-line="221" selection-start-column="48" selection-end-line="221" selection-end-column="48" />
-          <caret line="239" column="48" selection-start-line="239" selection-start-column="48" selection-end-line="239" selection-end-column="48" />
-          <caret line="257" column="48" selection-start-line="257" selection-start-column="48" selection-end-line="257" selection-end-column="48" />
-          <caret line="275" column="48" selection-start-line="275" selection-start-column="48" selection-end-line="275" selection-end-column="48" />
-          <caret line="293" column="48" selection-start-line="293" selection-start-column="48" selection-end-line="293" selection-end-column="48" />
-          <caret line="311" column="48" selection-start-line="311" selection-start-column="48" selection-end-line="311" selection-end-column="48" />
-          <caret line="341" column="48" selection-start-line="341" selection-start-column="48" selection-end-line="341" selection-end-column="48" />
-          <caret line="359" column="48" selection-start-line="359" selection-start-column="48" selection-end-line="359" selection-end-column="48" />
-          <caret line="377" column="48" selection-start-line="377" selection-start-column="48" selection-end-line="377" selection-end-column="48" />
-          <caret line="395" column="48" selection-start-line="395" selection-start-column="48" selection-end-line="395" selection-end-column="48" />
-          <caret line="413" column="48" selection-start-line="413" selection-start-column="48" selection-end-line="413" selection-end-column="48" />
-          <caret line="431" column="48" selection-start-line="431" selection-start-column="48" selection-end-line="431" selection-end-column="48" />
-          <caret line="449" column="48" selection-start-line="449" selection-start-column="48" selection-end-line="449" selection-end-column="48" />
-          <caret line="467" column="48" selection-start-line="467" selection-start-column="48" selection-end-line="467" selection-end-column="48" />
-          <caret line="485" column="48" selection-start-line="485" selection-start-column="48" selection-end-line="485" selection-end-column="48" />
+        <state relative-caret-position="360">
+          <caret line="20" column="132" selection-start-line="20" selection-start-column="132" selection-end-line="20" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/plastikovye-dveri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="120" selection-start-line="18" selection-start-column="120" selection-end-line="18" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="137" selection-start-line="20" selection-start-column="137" selection-end-line="20" selection-end-column="137" />
         </state>
       </provider>
     </entry>

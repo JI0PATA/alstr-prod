@@ -296,7 +296,7 @@ section {
   #header .header__callback input {
     padding-left: 20px; }
   #header.index {
-    height: 650px;
+    padding-bottom: 20px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;

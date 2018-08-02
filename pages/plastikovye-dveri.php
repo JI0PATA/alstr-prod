@@ -16,6 +16,8 @@ head()
             <div class="header__title">
                 <div class="common_description-title white center">качественные и недорогие пластиковые двери<br>от производителя в Казани</div>
                 <div class="common_description white">
+                    Изготовим качественные пластиковые двери по вашим размерам в течение 7 дней, с гарантией 10 лет.<br>
+                    Не успеем, установка двери за наш счёт.
                 </div>
             </div>
             <?php
