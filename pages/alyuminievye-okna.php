@@ -263,6 +263,10 @@ invite();
     </script>
     <!-- Marquiz script end -->
 
+    <div class="marquiz__container">
+        <a class="marquiz__button marquiz__button_blicked marquiz__button_rounded marquiz__button_shadow" href="#popup:marquiz_5b6c1e3d0c7c7e004245e8ea" data-fixed-side="" data-alpha-color="rgba(211, 64, 133, 0.5)" data-color="#d34085" data-text-color="#ffffff">Пройти тест</a>
+    </div>
+
 <?php
 footer();
 ?>
