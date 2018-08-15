@@ -24,7 +24,8 @@ input[type=number] {
 .marquiz__button {
   position: fixed !important;
   bottom: 50px;
-  transform: translateX(-50%); }
+  transform: translateX(-50%);
+  z-index: 10; }
 
 /************* /СТИЛИЗАЦИЯ СКРОЛЛБАРА ************/
 * {
