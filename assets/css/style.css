@@ -22,7 +22,7 @@ input[type=number] {
   -moz-appearance: textfield; }
 
 .marquiz__button {
-  position: fixed;
+  position: fixed !important;
   bottom: 50px; }
 
 /************* /СТИЛИЗАЦИЯ СКРОЛЛБАРА ************/
