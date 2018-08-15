@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8d1f25-4e6f-4b4b-9d79-90f5a5dba8cc" name="Default" comment="" />
+    <list default="true" id="da8d1f25-4e6f-4b4b-9d79-90f5a5dba8cc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/alyuminievye-dveri.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alyuminievye-dveri.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/alyuminievye-okna.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/alyuminievye-okna.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,29 +20,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5286396">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="alyuminievye-dveri.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/alyuminievye-dveri.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="20" column="132" selection-start-line="20" selection-start-column="132" selection-end-line="20" selection-end-column="132" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="plastikovye-dveri.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="plastikovye-dveri.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pages/plastikovye-dveri.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="324">
+                <state relative-caret-position="20">
                   <caret line="18" column="120" selection-start-line="18" selection-start-column="120" selection-end-line="18" selection-end-column="120" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="osteklenie-balkonov-lodzhij.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
                 </state>
               </provider>
             </entry>
@@ -50,7 +36,7 @@
           <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/css/style.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1224">
+                <state relative-caret-position="1360">
                   <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
                 </state>
               </provider>
@@ -146,13 +132,13 @@
         <option value="$PROJECT_DIR$/assets/img/alyuminievye-dveri/cold/1.svg" />
         <option value="$PROJECT_DIR$/assets/css/_blueprint__doors.sass" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/pages/alyuminievye-okna.php" />
         <option value="$PROJECT_DIR$/assets/css/_hat.sass" />
-        <option value="$PROJECT_DIR$/pages/alyuminievye-dveri.php" />
-        <option value="$PROJECT_DIR$/pages/vkhodnye-gruppy.php" />
         <option value="$PROJECT_DIR$/pages/plastikovye-okna.php" />
         <option value="$PROJECT_DIR$/pages/plastikovye-dveri.php" />
         <option value="$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php" />
+        <option value="$PROJECT_DIR$/pages/vkhodnye-gruppy.php" />
+        <option value="$PROJECT_DIR$/pages/alyuminievye-okna.php" />
+        <option value="$PROJECT_DIR$/pages/alyuminievye-dveri.php" />
       </list>
     </option>
   </component>
@@ -331,11 +317,13 @@
       <workItem from="1533226921960" duration="507000" />
       <workItem from="1533464236391" duration="19000" />
       <workItem from="1533464464925" duration="745000" />
+      <workItem from="1534140191820" duration="674000" />
+      <workItem from="1534324568831" duration="227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241622000" />
+    <option name="totallyTimeSpent" value="242537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -647,7 +635,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
+        <state relative-caret-position="1360">
           <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
         </state>
       </provider>
@@ -680,20 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/alyuminievye-okna.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/vkhodnye-gruppy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="129" selection-start-line="18" selection-start-column="129" selection-end-line="18" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/plastikovye-okna.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -703,22 +677,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/alyuminievye-dveri.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="132" selection-start-line="20" selection-start-column="132" selection-end-line="20" selection-end-column="132" />
+        <state relative-caret-position="870">
+          <caret line="639" column="31" selection-start-line="639" selection-start-column="31" selection-end-line="639" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/plastikovye-dveri.php">
+    <entry file="file://$PROJECT_DIR$/pages/alyuminievye-okna.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="120" selection-start-line="18" selection-start-column="120" selection-end-line="18" selection-end-column="120" />
+        <state relative-caret-position="710">
+          <caret line="263" column="31" selection-start-line="263" selection-start-column="31" selection-end-line="263" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/vkhodnye-gruppy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/osteklenie-balkonov-lodzhij.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        <state relative-caret-position="20">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/plastikovye-dveri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="18" column="120" selection-start-line="18" selection-start-column="120" selection-end-line="18" selection-end-column="120" />
         </state>
       </provider>
     </entry>

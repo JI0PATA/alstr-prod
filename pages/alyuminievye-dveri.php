@@ -630,6 +630,15 @@ invite();
     </div>
     <!--------------- /ОСТАЛИСЬ ВОПРОСЫ? -------------->
 
+    <!-- Marquiz script start -->
+    <script src="//script.marquiz.ru/v1.js" type="application/javascript"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            Marquiz.init({ id: '5b728800b3c4a5004269d2bd' });
+        });
+    </script>
+    <!-- Marquiz script end -->
+
 <?php
 footer();
 ?>
